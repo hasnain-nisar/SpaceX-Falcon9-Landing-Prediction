@@ -30,4 +30,4 @@ The project relies on common data science libraries such as pandas, NumPy, sciki
 
 ## Contributors
 
-- [Hasnain Nisar]
+- Hasnain Nisar
